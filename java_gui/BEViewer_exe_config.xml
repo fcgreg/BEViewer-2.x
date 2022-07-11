@@ -7,7 +7,7 @@
   <cmdLine></cmdLine>
   <chdir></chdir>
   <priority>normal</priority>
-  <downloadUrl>http://java.com/download</downloadUrl>
+  <downloadUrl>https://adoptium.net</downloadUrl>
   <supportUrl></supportUrl>
   <customProcName>false</customProcName>
   <stayAlive>false</stayAlive>
@@ -15,7 +15,7 @@
   <icon></icon>
   <jre>
     <path></path>
-    <minVersion>1.6.0</minVersion>
+    <minVersion>11</minVersion>
     <maxVersion></maxVersion>
     <jdkPreference>preferJre</jdkPreference>
     <maxHeapSize>1000</maxHeapSize>
